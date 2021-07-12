@@ -5,6 +5,7 @@
  - REST-API
  - H2 Database
  - Lombok
+
 Pour lancer l'application en local, vous avez besoin d'installer :
 
 - [JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
