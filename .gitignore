@@ -1,0 +1,39 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.factorypath
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+*.iml
+.settings/
+*.sublime-workspace
+*.iws
+*.ipr
+target/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*

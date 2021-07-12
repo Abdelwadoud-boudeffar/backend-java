@@ -1,0 +1,1 @@
+INSERT INTO USERS (ID, FIRST_NAME, LAST_NAME, USER_NAME) VALUES (1, 'toto', 'titi', 'tototiti');

@@ -1,0 +1,4 @@
+2021-06-09 14:43:12,804 INFO com.sqli.suisse.rest.BackendApplicationTests [main] Starting BackendApplicationTests on SQLI40860 with PID 41560 (started by aewboudeffar in C:\Users\aewboudeffar\Projets\BackEnd-RestAPI-Java-LayerArchitecture\backend-rest)
+2021-06-09 14:43:12,806 DEBUG com.sqli.suisse.rest.BackendApplicationTests [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-06-09 14:43:12,806 INFO com.sqli.suisse.rest.BackendApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-06-09 14:43:16,747 INFO com.sqli.suisse.rest.BackendApplicationTests [main] Started BackendApplicationTests in 4.125 seconds (JVM running for 5.081)
